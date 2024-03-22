@@ -1,4 +1,4 @@
 export enum TabEnums {
-    Home = 'Home',
-    About = 'About',
+  Building = "Building",
+  Floor = "Floor",
 }
